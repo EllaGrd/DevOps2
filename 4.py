@@ -40,3 +40,4 @@ elif strOne != strThree:
     print("hello")
 else:
     print("a is greater than b")
+    print("a is greater than b")
